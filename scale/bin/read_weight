@@ -1,0 +1,8 @@
+#! /usr/bin/env python
+
+import scale.read_weight
+
+
+if __name__ == '__main__':
+    scale.read_weight.say('my friend!')
+
